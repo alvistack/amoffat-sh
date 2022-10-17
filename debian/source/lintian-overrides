@@ -1,0 +1,4 @@
+python-sh source: file-without-copyright-information
+python-sh source: no-debian-changes
+python-sh source: source-contains-prebuilt-windows-binary
+python-sh source: source-package-encodes-python-version

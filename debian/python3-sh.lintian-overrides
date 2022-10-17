@@ -1,0 +1,4 @@
+python3-sh: copyright-without-copyright-notice
+python3-sh: initial-upload-closes-no-bugs
+python3-sh: no-manual-page
+python3-sh: zero-byte-file-in-doc-directory
